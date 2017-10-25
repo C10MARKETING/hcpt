@@ -1,0 +1,597 @@
+T__TESTING__
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Info.plist __TESTING__/__TESTING__-Info.plist
+cPhaseScriptExecution "Touch www folder" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Script-304B58A110DAC018002A0835.sh
+cCpResource www cordova/../build/__TESTING__.app/www
+cCopyPlistFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Cordova.plist __TESTING__/Resources/../Cordova.plist
+cCpResource __TESTING__/Resources/icons/icon-72.png cordova/../build/__TESTING__.app/icon-72.png
+cCpResource __TESTING__/Resources/icons/icon.png cordova/../build/__TESTING__.app/icon.png
+cCpResource __TESTING__/Resources/icons/icon@2x.png cordova/../build/__TESTING__.app/icon@2x.png
+cCpResource __TESTING__/Resources/Capture.bundle cordova/../build/__TESTING__.app/Capture.bundle
+cCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/en.lproj/Localizable.strings __TESTING__/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/es.lproj/Localizable.strings __TESTING__/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xib
+cCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/de.lproj/Localizable.strings __TESTING__/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/se.lproj/Localizable.strings __TESTING__/Resources/se.lproj/Localizable.strings
+cCpResource __TESTING__/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png
+cCpResource __TESTING__/Resources/splash/Default-Landscape~ipad.png cordova/../build/__TESTING__.app/Default-Landscape~ipad.png
+cCpResource __TESTING__/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png
+cCpResource __TESTING__/Resources/splash/Default-Portrait~ipad.png cordova/../build/__TESTING__.app/Default-Portrait~ipad.png
+cCpResource __TESTING__/Resources/splash/Default@2x~iphone.png cordova/../build/__TESTING__.app/Default@2x~iphone.png
+cCpResource __TESTING__/Resources/splash/Default~iphone.png cordova/../build/__TESTING__.app/Default~iphone.png
+cCpResource __TESTING__/Resources/splash/Default-568h@2x~iphone.png cordova/../build/__TESTING__.app/Default-568h@2x~iphone.png
+cProcessPCH /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.pth __TESTING__/__TESTING__-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000050A4F7A400000000001EAFC0
+t1352988580
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000050A4F7A300000000000C0EF0
+t1352988579
+s790256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c0000000050A4F7A30000000000193640
+t1352988579
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050A4F7A400000000003D2B80
+t1352988580
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000050A4F7A40000000000215D60
+t1352988580
+s2186592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050A4F7A40000000000228FD0
+t1352988580
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000050A4F7A4000000000009C220
+t1352988580
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000050A4F7A40000000000085620
+t1352988580
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050A4F7A500000000003DCEF0
+t1352988581
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c0000000050A4F7A800000000002C6C10
+t1352988584
+s2911248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000050A4F7A800000000000BCB50
+t1352988584
+s772944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050A4F7A900000000001D57A0
+t1352988585
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000050A4F7A9000000000006CC50
+t1352988585
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050A4F7AB0000000000AB3D60
+t1352988587
+s11222368
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m
+c000000005092606600000000000015AE
+t1351770214
+s5550
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m
+c000000005092606600000000000012F5
+t1351770214
+s4853
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xib
+c00000000509260660000000000001759
+t1351770214
+s5977
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/../Cordova.plist
+c00000000509260660000000000000A33
+t1351770214
+s2611
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/Capture.bundle
+c0000000050AB7D54000000000000030E
+t1353416020
+s782
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/de.lproj/Localizable.strings
+c00000000509260660000000000000485
+t1351770214
+s1157
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/en.lproj/Localizable.strings
+c00000000509260660000000000000470
+t1351770214
+s1136
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/es.lproj/Localizable.strings
+c0000000050926066000000000000047D
+t1351770214
+s1149
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/icons/icon-72.png
+c00000000509260660000000000001350
+t1351770214
+s4944
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/icons/icon.png
+c00000000509260660000000000000F3E
+t1351770214
+s3902
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/icons/icon@2x.png
+c00000000509260660000000000001EBD
+t1351770214
+s7869
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/se.lproj/Localizable.strings
+c00000000509260660000000000000471
+t1351770214
+s1137
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-568h@2x~iphone.png
+c00000000509260660000000000055EBB
+t1351770214
+s351931
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000509260660000000000176888
+t1351770214
+s1534088
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Landscape~ipad.png
+c000000005092606600000000000674B7
+t1351770214
+s423095
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005092606600000000001892C2
+t1351770214
+s1610434
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Portrait~ipad.png
+c00000000509260660000000000066F23
+t1351770214
+s421667
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default@2x~iphone.png
+c00000000509260660000000000055981
+t1351770214
+s350593
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default~iphone.png
+c00000000509260660000000000016EC9
+t1351770214
+s93897
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/__TESTING__-Prefix.pch
+c000000005092606600000000000003C7
+t1351770214
+s967
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m
+c0000000050926066000000000000045D
+t1351770214
+s1117
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/__TESTING__.LinkFileList
+c0000000050AC97E6000000000000020A
+t1353488358
+s522
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Script-304B58A110DAC018002A0835.sh
+c0000000050AC97E60000000000000027
+t1353488358
+s39
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app.dSYM
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Capture.bundle
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Cordova.plist
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default~iphone.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Info.plist
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/MainViewController.nib
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/PkgInfo
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/__TESTING__
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/icon-72.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/icon.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/icon@2x.png
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/www
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/libCordova.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/www
+c0000000050AB9B540000000000000154
+t1353423700
+s340
+
+N/var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.pth
+t2
+s0
+
+N__TESTING__/__TESTING__-Info.plist
+c000000005092606600000000000009BB
+t1351770214
+s2491
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies49d71466cf5cb641^ab951d66cf5cb641^--1(21%IDEActivityLogMessage2@66"Missing dependency target "CordovaLib (from CordovaLib.xcodeproj)"-375181158#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies36"75481188-935E-4E18-B65E-193D96B957C1-
+
+CCompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375181160.282715
+e375181160.360562
+r0
+xCompileC
+xbuild/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.o
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m:28:
+o/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.h:30:9: fatal error: 'Cordova/CDVViewController.h' file not found
+o#import <Cordova/CDVViewController.h>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m978f4868cf5cb641^86555c68cf5cb641^-377"In file included from /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m:28:/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.h:30:9: fatal error: 'Cordova/CDVViewController.h' file not found#import <Cordova/CDVViewController.h>        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@44"'Cordova/CDVViewController.h' file not found-375181160#18446744073709551615#0#1(2@135"In file included from /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m:28:-375181160#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@125"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m0000000000000000^27#8#27#8#946#0#30"Apple LLVM compiler 4.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.h0000000000000000^29#8#29#8#971#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@125"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m0000000000000000^4146"CompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.o __TESTING__/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-generated-files.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-own-target-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-all-target-headers.hmap -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-project-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/UninstalledProducts/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources/i386 -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources -F/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -include /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch -MMD -MT dependencies -MF /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.dia -c /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/AppDelegate.m -o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/AppDelegate.o36"627AE642-C81C-4FEB-A528-D71B966CB2CD-
+
+CCompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375181160.317416
+e375181160.462220
+r0
+xCompileC
+xbuild/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.o
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m:28:
+o/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.h:28:9: fatal error: 'Cordova/CDVViewController.h' file not found
+o#import <Cordova/CDVViewController.h>
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m145f5168cf5cb641^15567668cf5cb641^-391"In file included from /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m:28:/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.h:28:9: fatal error: 'Cordova/CDVViewController.h' file not found#import <Cordova/CDVViewController.h>        ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m0000000000000000^4188"CompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.o __TESTING__/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-generated-files.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-own-target-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-all-target-headers.hmap -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-project-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/UninstalledProducts/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources/i386 -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources -F/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -include /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch -MMD -MT dependencies -MF /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.dia -c /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.m -o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/MainViewController.o36"0DAD6265-9149-47FB-A796-AC57D5C27FA1-
+
+CCompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375181160.282110
+e375181160.316234
+r1
+xCompileC
+xbuild/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.o
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m3c6a4868cf5cb641^92085168cf5cb641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m0000000000000000^4088"CompileC build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.o __TESTING__/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-generated-files.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-own-target-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-all-target-headers.hmap -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-project-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/UninstalledProducts/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources/i386 -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources -F/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -include /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch -MMD -MT dependencies -MF /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.dia -c /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/main.m -o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/main.o36"0C2156F4-AD7C-4D68-97D5-8400B504900D-
+
+CCompileXIB /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xib
+s375181158.351605
+e375181159.831307
+r1
+xCompileXIB
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xib
+o2012-11-21 09:59:19.360 Interface Builder Cocoa Touch Tool[3268:f07] CFPreferences: user home directory at file://localhost/Users/jette/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compiling /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xiba0175a66cf5cb641^630bd567cf5cb641^-237"2012-11-21 09:59:19.360 Interface Builder Cocoa Touch Tool[3268:f07] CFPreferences: user home directory at file://localhost/Users/jette/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xib0000000000000000^1042"CompileXIB __TESTING__/Classes/MainViewController.xib    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/MainViewController.nib /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"1E2B8F2D-C34B-4DD3-A444-59283A0A861F-
+
+CCopyPlistFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Cordova.plist __TESTING__/Resources/../Cordova.plist
+s375181158.159498
+e375181158.166585
+r1
+xCopyPlistFile
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Cordova.plist
+x__TESTING__/Resources/../Cordova.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy __TESTING__/Resources/../Cordova.plist4fe52866cf5cb641^b0ae2a66cf5cb641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/../Cordova.plist0000000000000000^593"CopyPlistFile cordova/../build/__TESTING__.app/Cordova.plist __TESTING__/Resources/../Cordova.plist    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyPlist --convert binary1 --outdir /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app -- __TESTING__/Resources/../Cordova.plist36"703B8776-A730-411D-BB83-A3060EE201C0-
+
+CCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/de.lproj/Localizable.strings __TESTING__/Resources/de.lproj/Localizable.strings
+s375181158.356923
+e375181158.359213
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/de.lproj/Localizable.strings
+x__TESTING__/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy __TESTING__/Resources/de.lproj/Localizable.strings8b705b66cf5cb641^59fb5b66cf5cb641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/de.lproj/Localizable.strings0000000000000000^684"CopyStringsFile cordova/../build/__TESTING__.app/de.lproj/Localizable.strings __TESTING__/Resources/de.lproj/Localizable.strings    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/de.lproj -- __TESTING__/Resources/de.lproj/Localizable.strings36"CA460A3F-4159-492F-B202-FEA00E8FD3D0-
+
+CCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/en.lproj/Localizable.strings __TESTING__/Resources/en.lproj/Localizable.strings
+s375181158.320412
+e375181158.335041
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/en.lproj/Localizable.strings
+x__TESTING__/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy __TESTING__/Resources/en.lproj/Localizable.stringscb2c5266cf5cb641^56115666cf5cb641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/en.lproj/Localizable.strings0000000000000000^684"CopyStringsFile cordova/../build/__TESTING__.app/en.lproj/Localizable.strings __TESTING__/Resources/en.lproj/Localizable.strings    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/en.lproj -- __TESTING__/Resources/en.lproj/Localizable.strings36"2620E643-6385-4A00-AFBA-B6C8657D49C2-
+
+CCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/es.lproj/Localizable.strings __TESTING__/Resources/es.lproj/Localizable.strings
+s375181158.337537
+e375181158.347511
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/es.lproj/Localizable.strings
+x__TESTING__/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy __TESTING__/Resources/es.lproj/Localizable.strings7a555766cf5cb641^79405966cf5cb641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/es.lproj/Localizable.strings0000000000000000^684"CopyStringsFile cordova/../build/__TESTING__.app/es.lproj/Localizable.strings __TESTING__/Resources/es.lproj/Localizable.strings    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/es.lproj -- __TESTING__/Resources/es.lproj/Localizable.strings36"1B118CD4-DE73-417E-A17C-D494C82E7F56-
+
+CCopyStringsFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/se.lproj/Localizable.strings __TESTING__/Resources/se.lproj/Localizable.strings
+s375181158.360398
+e375181158.363104
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/se.lproj/Localizable.strings
+x__TESTING__/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy __TESTING__/Resources/se.lproj/Localizable.strings7e535c66cf5cb641^59fa5c66cf5cb641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/se.lproj/Localizable.strings0000000000000000^684"CopyStringsFile cordova/../build/__TESTING__.app/se.lproj/Localizable.strings __TESTING__/Resources/se.lproj/Localizable.strings    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/se.lproj -- __TESTING__/Resources/se.lproj/Localizable.strings36"01171852-3A32-4611-80C5-4E065A534C2D-
+
+CCpResource __TESTING__/Resources/Capture.bundle cordova/../build/__TESTING__.app/Capture.bundle
+s375181158.217319
+e375181158.318903
+r1
+xCpResource
+x__TESTING__/Resources/Capture.bundle
+xcordova/../build/__TESTING__.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy cordova/../build/__TESTING__.app/Capture.bundle9dbd3766cf5cb641^21b15166cf5cb641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Capture.bundle000000000080d041^723"CpResource __TESTING__/Resources/Capture.bundle cordova/../build/__TESTING__.app/Capture.bundle    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/Capture.bundle /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"2E991B49-0F23-46F3-A775-97756D41E6AD-
+
+CCpResource __TESTING__/Resources/icons/icon-72.png cordova/../build/__TESTING__.app/icon-72.png
+s375181158.168511
+e375181158.174281
+r1
+xCpResource
+x__TESTING__/Resources/icons/icon-72.png
+xcordova/../build/__TESTING__.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy cordova/../build/__TESTING__.app/icon-72.png2f342b66cf5cb641^e3c32c66cf5cb641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/icon-72.png000000000080d041^726"CpResource __TESTING__/Resources/icons/icon-72.png cordova/../build/__TESTING__.app/icon-72.png    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/icons/icon-72.png /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"C40082EC-B5B2-4D39-9916-F188AB30F641-
+
+CCpResource __TESTING__/Resources/icons/icon.png cordova/../build/__TESTING__.app/icon.png
+s375181158.175509
+e375181158.210890
+r1
+xCpResource
+x__TESTING__/Resources/icons/icon.png
+xcordova/../build/__TESTING__.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy cordova/../build/__TESTING__.app/icon.png2e002d66cf5cb641^43fe3566cf5cb641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/icon.png000000000080d041^717"CpResource __TESTING__/Resources/icons/icon.png cordova/../build/__TESTING__.app/icon.png    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/icons/icon.png /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"2F2F6A59-67A9-4994-BE81-AA50D42D93E8-
+
+CCpResource __TESTING__/Resources/icons/icon@2x.png cordova/../build/__TESTING__.app/icon@2x.png
+s375181158.212125
+e375181158.216046
+r1
+xCpResource
+x__TESTING__/Resources/icons/icon@2x.png
+xcordova/../build/__TESTING__.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy cordova/../build/__TESTING__.app/icon@2x.png10763666cf5cb641^82533766cf5cb641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/icon@2x.png000000000080d041^732"CpResource "__TESTING__/Resources/icons/icon@2x.png" "cordova/../build/__TESTING__.app/icon@2x.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/icons/icon@2x.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"34723B96-DBC4-4182-AA75-E2B9F99AA378-
+
+CCpResource __TESTING__/Resources/splash/Default-568h@2x~iphone.png cordova/../build/__TESTING__.app/Default-568h@2x~iphone.png
+s375181158.468003
+e375181158.472410
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default-568h@2x~iphone.png
+xcordova/../build/__TESTING__.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy cordova/../build/__TESTING__.app/Default-568h@2x~iphone.png9ce07766cf5cb641^38f67866cf5cb641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-568h@2x~iphone.png000000000080d041^779"CpResource "__TESTING__/Resources/splash/Default-568h@2x~iphone.png" "cordova/../build/__TESTING__.app/Default-568h@2x~iphone.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-568h@2x~iphone.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"9CBD3A7D-DB59-4C07-AD73-6A7F095B1198-
+
+CCpResource __TESTING__/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png
+s375181158.364309
+e375181158.377783
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default-Landscape@2x~ipad.png
+xcordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy cordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png0d555d66cf5cb641^7bc06066cf5cb641^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png000000000080d041^788"CpResource "__TESTING__/Resources/splash/Default-Landscape@2x~ipad.png" "cordova/../build/__TESTING__.app/Default-Landscape@2x~ipad.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Landscape@2x~ipad.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"DA8FFE86-E0A5-4319-96B2-51CD9F520BED-
+
+CCpResource __TESTING__/Resources/splash/Default-Landscape~ipad.png cordova/../build/__TESTING__.app/Default-Landscape~ipad.png
+s375181158.379026
+e375181158.384701
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default-Landscape~ipad.png
+xcordova/../build/__TESTING__.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy cordova/../build/__TESTING__.app/Default-Landscape~ipad.pngfc1a6166cf5cb641^a1836266cf5cb641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Landscape~ipad.png000000000080d041^779"CpResource "__TESTING__/Resources/splash/Default-Landscape~ipad.png" "cordova/../build/__TESTING__.app/Default-Landscape~ipad.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Landscape~ipad.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"9AAA84EA-E08E-456A-A1C1-186AE7D10288-
+
+CCpResource __TESTING__/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png
+s375181158.385934
+e375181158.444825
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default-Portrait@2x~ipad.png
+xcordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy cordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png58e16266cf5cb641^bce67166cf5cb641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png000000000080d041^785"CpResource "__TESTING__/Resources/splash/Default-Portrait@2x~ipad.png" "cordova/../build/__TESTING__.app/Default-Portrait@2x~ipad.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Portrait@2x~ipad.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"7BFA0307-8804-47AB-9A5D-A17006A3DE4C-
+
+CCpResource __TESTING__/Resources/splash/Default-Portrait~ipad.png cordova/../build/__TESTING__.app/Default-Portrait~ipad.png
+s375181158.446544
+e375181158.450143
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default-Portrait~ipad.png
+xcordova/../build/__TESTING__.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy cordova/../build/__TESTING__.app/Default-Portrait~ipad.png05697266cf5cb641^083d7366cf5cb641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default-Portrait~ipad.png000000000080d041^776"CpResource "__TESTING__/Resources/splash/Default-Portrait~ipad.png" "cordova/../build/__TESTING__.app/Default-Portrait~ipad.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default-Portrait~ipad.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"2E92A946-644D-4A7C-BF76-B656CBB3E298-
+
+CCpResource __TESTING__/Resources/splash/Default@2x~iphone.png cordova/../build/__TESTING__.app/Default@2x~iphone.png
+s375181158.451407
+e375181158.454688
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default@2x~iphone.png
+xcordova/../build/__TESTING__.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy cordova/../build/__TESTING__.app/Default@2x~iphone.pngefaa7366cf5cb641^df6f7466cf5cb641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default@2x~iphone.png000000000080d041^764"CpResource "__TESTING__/Resources/splash/Default@2x~iphone.png" "cordova/../build/__TESTING__.app/Default@2x~iphone.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default@2x~iphone.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"2ACDE379-D0CD-44E9-A596-24AD1E2E1504-
+
+CCpResource __TESTING__/Resources/splash/Default~iphone.png cordova/../build/__TESTING__.app/Default~iphone.png
+s375181158.455917
+e375181158.466785
+r1
+xCpResource
+x__TESTING__/Resources/splash/Default~iphone.png
+xcordova/../build/__TESTING__.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy cordova/../build/__TESTING__.app/Default~iphone.png68cc7466cf5cb641^38877766cf5cb641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Default~iphone.png000000000080d041^755"CpResource "__TESTING__/Resources/splash/Default~iphone.png" "cordova/../build/__TESTING__.app/Default~iphone.png"    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/Resources/splash/Default~iphone.png" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"393338E5-9C55-40CA-A7A5-B60C5327AFE1-
+
+CCpResource www cordova/../build/__TESTING__.app/www
+s375181158.159031
+e375181158.352318
+r1
+xCpResource
+xwww
+xcordova/../build/__TESTING__.app/www
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy cordova/../build/__TESTING__.app/www08cb2866cf5cb641^37375a66cf5cb641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/www000000000080d041^646"CpResource www cordova/../build/__TESTING__.app/www    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/www /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app36"D9C55BF3-6065-43CE-94E2-90DDDAE3A86D-
+
+CGenerateDSYMFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app.dSYM /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/__TESTING__
+r0
+
+CLd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/__TESTING__ normal i386
+r0
+
+CPhaseScriptExecution "Touch www folder" /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Script-304B58A110DAC018002A0835.sh
+s375181158.132525
+e375181158.151000
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Script-304B58A110DAC018002A0835.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Touch www folder'78b72266cf5cb641^37a72666cf5cb641^---0#0#0#--21949"PhaseScriptExecution "Touch www folder" build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Script-304B58A110DAC018002A0835.sh    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jette    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build    setenv BUILD_ROOT /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build    setenv CACHE_ROOT /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_OBJCPP_ARC_ABI YES    setenv CLASS_FILE_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build    setenv CONFIGURATION_TEMP_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH __TESTING__.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH __TESTING__.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/__TESTING__.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME __TESTING__.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH __TESTING__.app/Executables    setenv EXECUTABLE_FOLDER_PATH __TESTING__.app    setenv EXECUTABLE_NAME __TESTING__    setenv EXECUTABLE_PATH __TESTING__.app/__TESTING__    setenv FILE_LIST /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH __TESTING__.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME __TESTING__.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER __TESTING__/__TESTING__-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/include\" \"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/usr/local/lib/include\" \"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/UninstalledProducts/include\" \"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE __TESTING__/__TESTING__-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH __TESTING__.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH __TESTING__.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/__TESTING__.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jette    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/__TESTING__.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH __TESTING__.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal/i386/__TESTING__.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH __TESTING__.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C60    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Objects-normal    setenv OBJROOT /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH __TESTING__.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/PkgInfo    setenv PKGINFO_PATH __TESTING__.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH __TESTING__.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH __TESTING__.app/PrivateHeaders    setenv PRODUCT_NAME __TESTING__    setenv PRODUCT_SETTINGS_PATH /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/__TESTING__-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT __TESTING__    setenv PROJECT_DERIVED_FILE_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/DerivedSources    setenv PROJECT_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PROJECT_FILE_PATH /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__.xcodeproj    setenv PROJECT_NAME __TESTING__    setenv PROJECT_TEMP_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build    setenv PUBLIC_HEADERS_FOLDER_PATH __TESTING__.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH __TESTING__.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_NAME iphonesimulator6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH __TESTING__.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH __TESTING__.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv SRCROOT /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME __TESTING__    setenv TARGET_BUILD_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build    setenv TARGET_NAME __TESTING__    setenv TARGET_TEMP_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build    setenv TEMP_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build    setenv TEMP_FILES_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build    setenv TEMP_FILE_DIR /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build    setenv TEMP_ROOT /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH __TESTING__.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER jette    setenv USER_APPS_DIR /Users/jette/Applications    setenv USER_LIBRARY_DIR /Users/jette/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH __TESTING__.app/version.plist    setenv VERSION_INFO_BUILDER jette    setenv VERSION_INFO_FILE __TESTING___vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:__TESTING__  PROJECT:__TESTING__-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME __TESTING__.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G2008a    setenv XCODE_VERSION_ACTUAL 0452    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/Script-304B58A110DAC018002A0835.sh36"D8445EA0-15BE-4FC8-AFB4-0CEAFC1B5891-
+
+CProcessInfoPlistFile /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Info.plist __TESTING__/__TESTING__-Info.plist
+s375181158.121614
+e375181158.125098
+r1
+xProcessInfoPlistFile
+x/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Info.plist
+x__TESTING__/__TESTING__-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process __TESTING__/__TESTING__-Info.plist2e3c1f66cf5cb641^30102066cf5cb641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/__TESTING__-Info.plist0000000000000000^771"ProcessInfoPlistFile cordova/../build/__TESTING__.app/Info.plist __TESTING__/__TESTING__-Info.plist    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility __TESTING__/__TESTING__-Info.plist -genpkginfo /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app/Info.plist36"B30EE2F9-0120-4717-B5F9-E3B92BFF9130-
+
+CProcessPCH /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.pth __TESTING__/__TESTING__-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375181159.839011
+e375181160.275223
+r1
+xProcessPCH
+x/var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.pth
+x__TESTING__/__TESTING__-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile __TESTING__/__TESTING__-Prefix.pch45f1d667cf5cb641^6d744668cf5cb641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/__TESTING__-Prefix.pch0000000000000000^4035"ProcessPCH /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.pth __TESTING__/__TESTING__-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-generated-files.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-own-target-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-all-target-headers.hmap -iquote /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/__TESTING__-project-headers.hmap -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/UninstalledProducts/include -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources/i386 -I/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/build/__TESTING__.build/Debug-iphonesimulator/__TESTING__.build/DerivedSources -F/Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build --serialize-diagnostics /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.dia -c /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/__TESTING__/__TESTING__-Prefix.pch -o /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/__TESTING__-Prefix-brvdfkqgeyblacfhknjonucefnvk/__TESTING__-Prefix.pch.d36"E3191B09-9236-4504-B012-CC9BE3D1AF6B-
+
+CTouch /Users/jette/AppDev/phonegap-phonegap-8a3aa47/lib/ios/bin/templates/project/cordova/../build/__TESTING__.app
+r0
+

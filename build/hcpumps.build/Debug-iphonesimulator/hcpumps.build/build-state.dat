@@ -1,0 +1,625 @@
+Thcpumps
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Info.plist hcpumps/hcpumps-Info.plist
+cPhaseScriptExecution "Touch www folder" /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Script-304B58A110DAC018002A0835.sh
+cCpResource www cordova/../build/hcpumps.app/www
+cCopyPlistFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Cordova.plist hcpumps/Resources/../Cordova.plist
+cCpResource hcpumps/Resources/icons/icon-72.png cordova/../build/hcpumps.app/icon-72.png
+cCpResource hcpumps/Resources/icons/icon.png cordova/../build/hcpumps.app/icon.png
+cCpResource hcpumps/Resources/icons/icon@2x.png cordova/../build/hcpumps.app/icon@2x.png
+cCpResource hcpumps/Resources/Capture.bundle cordova/../build/hcpumps.app/Capture.bundle
+cCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/en.lproj/Localizable.strings hcpumps/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/es.lproj/Localizable.strings hcpumps/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib
+cCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/de.lproj/Localizable.strings hcpumps/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/se.lproj/Localizable.strings hcpumps/Resources/se.lproj/Localizable.strings
+cCpResource hcpumps/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/hcpumps.app/Default-Landscape@2x~ipad.png
+cCpResource hcpumps/Resources/splash/Default-Landscape~ipad.png cordova/../build/hcpumps.app/Default-Landscape~ipad.png
+cCpResource hcpumps/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png
+cCpResource hcpumps/Resources/splash/Default-Portrait~ipad.png cordova/../build/hcpumps.app/Default-Portrait~ipad.png
+cCpResource hcpumps/Resources/splash/Default@2x~iphone.png cordova/../build/hcpumps.app/Default@2x~iphone.png
+cCpResource hcpumps/Resources/splash/Default~iphone.png cordova/../build/hcpumps.app/Default~iphone.png
+cCpResource hcpumps/Resources/splash/Default-568h@2x~iphone.png cordova/../build/hcpumps.app/Default-568h@2x~iphone.png
+cProcessPCH /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.pth hcpumps/hcpumps-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.o /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.o /Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.o /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps normal i386
+cGenerateDSYMFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps
+cTouch /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000050A4F7A400000000001EAFC0
+t1352988580
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000050A4F7A300000000000C0EF0
+t1352988579
+s790256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c0000000050A4F7A30000000000193640
+t1352988579
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050A4F7A400000000003D2B80
+t1352988580
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000050A4F7A40000000000215D60
+t1352988580
+s2186592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050A4F7A40000000000228FD0
+t1352988580
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000050A4F7A4000000000009C220
+t1352988580
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000050A4F7A40000000000085620
+t1352988580
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050A4F7A500000000003DCEF0
+t1352988581
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c0000000050A4F7A800000000002C6C10
+t1352988584
+s2911248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000050A4F7A800000000000BCB50
+t1352988584
+s772944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050A4F7A900000000001D57A0
+t1352988585
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000050A4F7A9000000000006CC50
+t1352988585
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050A4F7AB0000000000AB3D60
+t1352988587
+s11222368
+
+N/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/hcpumps.LinkFileList
+c0000000050ACA8ED0000000000000183
+t1353492717
+s387
+
+N/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Script-304B58A110DAC018002A0835.sh
+c0000000050ACA8ED0000000000000027
+t1353492717
+s39
+
+N/Users/jette/AppDev/NewProject/hcpumps/build/libCordova.a
+c0000000050ACA8ED00000000003193E0
+t1353492717
+s3249120
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Capture.bundle
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Cordova.plist
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default~iphone.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Info.plist
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/MainViewController.nib
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/PkgInfo
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/icon-72.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/icon.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/icon@2x.png
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/www
+t2
+s0
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m
+c0000000050AC995500000000000015A2
+t1353488725
+s5538
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m
+c0000000050AC995500000000000012F1
+t1353488725
+s4849
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib
+c0000000050AC99550000000000001759
+t1353488725
+s5977
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/../Cordova.plist
+c0000000050AC99550000000000000A33
+t1353488725
+s2611
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/Capture.bundle
+c0000000050AC9955000000000000030E
+t1353488725
+s782
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/de.lproj/Localizable.strings
+c0000000050AC99550000000000000485
+t1353488725
+s1157
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/en.lproj/Localizable.strings
+c0000000050AC99550000000000000470
+t1353488725
+s1136
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/es.lproj/Localizable.strings
+c0000000050AC9955000000000000047D
+t1353488725
+s1149
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/icons/icon-72.png
+c0000000050AC99550000000000001350
+t1353488725
+s4944
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/icons/icon.png
+c0000000050AC99550000000000000F3E
+t1353488725
+s3902
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/icons/icon@2x.png
+c0000000050AC99550000000000001EBD
+t1353488725
+s7869
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/se.lproj/Localizable.strings
+c0000000050AC99550000000000000471
+t1353488725
+s1137
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-568h@2x~iphone.png
+c0000000050AC99550000000000055EBB
+t1353488725
+s351931
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000050AC99550000000000176888
+t1353488725
+s1534088
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Landscape~ipad.png
+c0000000050AC995500000000000674B7
+t1353488725
+s423095
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000050AC995500000000001892C2
+t1353488725
+s1610434
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Portrait~ipad.png
+c0000000050AC99550000000000066F23
+t1353488725
+s421667
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default@2x~iphone.png
+c0000000050AC99550000000000055981
+t1353488725
+s350593
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default~iphone.png
+c0000000050AC99550000000000016EC9
+t1353488725
+s93897
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/hcpumps-Prefix.pch
+c0000000050AC995500000000000003BF
+t1353488725
+s959
+
+N/Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m
+c0000000050AC99550000000000000459
+t1353488725
+s1113
+
+N/Users/jette/AppDev/NewProject/hcpumps/www
+c0000000050AC99550000000000000154
+t1353488725
+s340
+
+N/var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.pth
+t2
+s0
+
+Nhcpumps/hcpumps-Info.plist
+c0000000050AC995500000000000009C8
+t1353488725
+s2504
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies70992b6de05cb641^2b882d6de05cb641^---0#1#0#--18"Check dependencies36"48CBFF58-7475-4B90-831E-38F48582CA94-
+
+CCompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.o /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375185518.761002
+e375185518.854143
+r1
+xCompileC
+xbuild/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.o
+x/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]
+o    self.viewController.invokeString = invokeString;
+o                        ^
+o/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");
+o                                                 ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.mef00c36ee05cb641^1cd0da6ee05cb641^-751"/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]    self.viewController.invokeString = invokeString;                        ^/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-375185518#18446744073709551615#0#1(2@28"'invokeString' declared here-375185518#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@93"file://localhost/Users/jette/AppDev/NewProject/hcpumps/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@84"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m0000000000000000^72#24#72#24#2384#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@84"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m0000000000000000^3442"CompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.o hcpumps/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/NewProject/hcpumps    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-generated-files.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-own-target-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-all-target-headers.hmap -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-project-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/NewProject/hcpumps/build/UninstalledProducts/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources/i386 -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources -F/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -include /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch -MMD -MT dependencies -MF /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.dia -c /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/AppDelegate.m -o /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/AppDelegate.o36"29CB47B2-3FC0-485C-AC16-4348F35FC5F7-
+
+CCompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.o /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375185518.791531
+e375185518.863750
+r1
+xCompileC
+xbuild/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.o
+x/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m:125:14: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]
+o    if (self.invokeString) {
+o             ^
+o/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");
+o                                                 ^
+o/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m:128:93: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]
+o        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];
+o                                                                                            ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.mf9c0ca6ee05cb641^111edd6ee05cb641^-1209"/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m:125:14: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]    if (self.invokeString) {             ^/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include/Cordova/CDVViewController.h:43:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy)NSString * invokeString CDV_DEPRECATED(2.0, "Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.");                                                 ^/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m:128:93: warning: 'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url. [-Wdeprecated-declarations]        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];                                                                                            ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-375185518#18446744073709551615#0#1(2@28"'invokeString' declared here-375185518#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@93"file://localhost/Users/jette/AppDev/NewProject/hcpumps/CordovaLib/Classes/CDVViewController.h0000000000000000^42#49#42#49#1597#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m0000000000000000^124#13#124#13#3602#0#12"Deprecations--2@161"'invokeString' is deprecated: Deprecated in Cordova 2.0. Use window.handleOpenURL(url instead. It is called when the app is launched through a custom scheme url.-375185518#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m0000000000000000^127#92#127#92#4013#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m0000000000000000^3484"CompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.o hcpumps/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/NewProject/hcpumps    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-generated-files.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-own-target-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-all-target-headers.hmap -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-project-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/NewProject/hcpumps/build/UninstalledProducts/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources/i386 -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources -F/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -include /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch -MMD -MT dependencies -MF /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.dia -c /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.m -o /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/MainViewController.o36"5D07E8E9-D1E8-49CB-9005-023A66A9B368-
+
+CCompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.o /Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375185518.761011
+e375185518.790145
+r1
+xCompileC
+xbuild/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.o
+x/Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m7effc26ee05cb641^1552ca6ee05cb641^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m0000000000000000^3384"CompileC build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.o hcpumps/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/NewProject/hcpumps    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-generated-files.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-own-target-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-all-target-headers.hmap -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-project-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/NewProject/hcpumps/build/UninstalledProducts/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources/i386 -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources -F/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -include /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch -MMD -MT dependencies -MF /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.dia -c /Users/jette/AppDev/NewProject/hcpumps/hcpumps/main.m -o /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/main.o36"36E05726-F7BD-44F0-B343-19C4AA79D38C-
+
+CCompileXIB /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib
+s375185517.285356
+e375185518.426428
+r1
+xCompileXIB
+x/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib
+o2012-11-21 11:11:58.014 Interface Builder Cocoa Touch Tool[3463:f07] CFPreferences: user home directory at file://localhost/Users/jette/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib641e496de05cb641^6b0c6e6ee05cb641^-237"2012-11-21 11:11:58.014 Interface Builder Cocoa Touch Tool[3463:f07] CFPreferences: user home directory at file://localhost/Users/jette/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib0000000000000000^919"CompileXIB hcpumps/Classes/MainViewController.xib    cd /Users/jette/AppDev/NewProject/hcpumps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/MainViewController.nib /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"98535F98-5FC2-492B-AB7B-4421AE38F4EE-
+
+CCopyPlistFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Cordova.plist hcpumps/Resources/../Cordova.plist
+s375185517.227661
+e375185517.233420
+r1
+xCopyPlistFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Cordova.plist
+xhcpumps/Resources/../Cordova.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy hcpumps/Resources/../Cordova.plist0f633a6de05cb641^36cd3b6de05cb641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/../Cordova.plist0000000000000000^503"CopyPlistFile cordova/../build/hcpumps.app/Cordova.plist hcpumps/Resources/../Cordova.plist    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyPlist --convert binary1 --outdir /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app -- hcpumps/Resources/../Cordova.plist36"C9E0AA49-1ACB-425A-B4AD-7D06CE24723B-
+
+CCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/de.lproj/Localizable.strings hcpumps/Resources/de.lproj/Localizable.strings
+s375185517.290295
+e375185517.293111
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/de.lproj/Localizable.strings
+xhcpumps/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy hcpumps/Resources/de.lproj/Localizable.strings0e674a6de05cb641^1f114b6de05cb641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/de.lproj/Localizable.strings0000000000000000^594"CopyStringsFile cordova/../build/hcpumps.app/de.lproj/Localizable.strings hcpumps/Resources/de.lproj/Localizable.strings    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/de.lproj -- hcpumps/Resources/de.lproj/Localizable.strings36"112E79A6-5C5C-4ABC-B6BB-209B9E041CD2-
+
+CCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/en.lproj/Localizable.strings hcpumps/Resources/en.lproj/Localizable.strings
+s375185517.279253
+e375185517.282453
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/en.lproj/Localizable.strings
+xhcpumps/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy hcpumps/Resources/en.lproj/Localizable.strings7191476de05cb641^fc55486de05cb641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/en.lproj/Localizable.strings0000000000000000^594"CopyStringsFile cordova/../build/hcpumps.app/en.lproj/Localizable.strings hcpumps/Resources/en.lproj/Localizable.strings    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/en.lproj -- hcpumps/Resources/en.lproj/Localizable.strings36"0E27E792-C0A7-4B9D-AA45-F8564CBBDD28-
+
+CCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/es.lproj/Localizable.strings hcpumps/Resources/es.lproj/Localizable.strings
+s375185517.283877
+e375185517.289078
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/es.lproj/Localizable.strings
+xhcpumps/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy hcpumps/Resources/es.lproj/Localizable.strings38c0486de05cb641^200a4a6de05cb641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/es.lproj/Localizable.strings0000000000000000^594"CopyStringsFile cordova/../build/hcpumps.app/es.lproj/Localizable.strings hcpumps/Resources/es.lproj/Localizable.strings    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/es.lproj -- hcpumps/Resources/es.lproj/Localizable.strings36"5A071E37-038E-4D13-BC9D-780F339D636F-
+
+CCopyStringsFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/se.lproj/Localizable.strings hcpumps/Resources/se.lproj/Localizable.strings
+s375185517.294615
+e375185517.297312
+r1
+xCopyStringsFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/se.lproj/Localizable.strings
+xhcpumps/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy hcpumps/Resources/se.lproj/Localizable.strings2c7e4b6de05cb641^64234c6de05cb641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/se.lproj/Localizable.strings0000000000000000^594"CopyStringsFile cordova/../build/hcpumps.app/se.lproj/Localizable.strings hcpumps/Resources/se.lproj/Localizable.strings    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/se.lproj -- hcpumps/Resources/se.lproj/Localizable.strings36"A8869D40-3985-4941-9CC2-7E1A76F792C2-
+
+CCpResource hcpumps/Resources/Capture.bundle cordova/../build/hcpumps.app/Capture.bundle
+s375185517.246879
+e375185517.277941
+r1
+xCpResource
+xhcpumps/Resources/Capture.bundle
+xcordova/../build/hcpumps.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy cordova/../build/hcpumps.app/Capture.bundle4e443f6de05cb641^0f28476de05cb641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Capture.bundle000000000080d041^596"CpResource hcpumps/Resources/Capture.bundle cordova/../build/hcpumps.app/Capture.bundle    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/Capture.bundle /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"B5C98C6A-F926-4E96-A515-17E70093FC21-
+
+CCpResource hcpumps/Resources/icons/icon-72.png cordova/../build/hcpumps.app/icon-72.png
+s375185517.234666
+e375185517.237378
+r1
+xCpResource
+xhcpumps/Resources/icons/icon-72.png
+xcordova/../build/hcpumps.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy cordova/../build/hcpumps.app/icon-72.pnga62b3c6de05cb641^a8c53c6de05cb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/icon-72.png000000000080d041^599"CpResource hcpumps/Resources/icons/icon-72.png cordova/../build/hcpumps.app/icon-72.png    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/icons/icon-72.png /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"45FD9596-B338-4345-A07C-381B426E0AAE-
+
+CCpResource hcpumps/Resources/icons/icon.png cordova/../build/hcpumps.app/icon.png
+s375185517.238665
+e375185517.241630
+r1
+xCpResource
+xhcpumps/Resources/icons/icon.png
+xcordova/../build/hcpumps.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy cordova/../build/hcpumps.app/icon.png3c2f3d6de05cb641^b5dc3d6de05cb641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/icon.png000000000080d041^590"CpResource hcpumps/Resources/icons/icon.png cordova/../build/hcpumps.app/icon.png    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/icons/icon.png /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"8233B074-23A1-4352-A790-2B3C5DE64642-
+
+CCpResource hcpumps/Resources/icons/icon@2x.png cordova/../build/hcpumps.app/icon@2x.png
+s375185517.242886
+e375185517.245631
+r1
+xCpResource
+xhcpumps/Resources/icons/icon@2x.png
+xcordova/../build/hcpumps.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy cordova/../build/hcpumps.app/icon@2x.pngae4a3e6de05cb641^76e23e6de05cb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/icon@2x.png000000000080d041^605"CpResource "hcpumps/Resources/icons/icon@2x.png" "cordova/../build/hcpumps.app/icon@2x.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/icons/icon@2x.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"B479FE49-0C13-4C41-A5C8-1A84FF7B8783-
+
+CCpResource hcpumps/Resources/splash/Default-568h@2x~iphone.png cordova/../build/hcpumps.app/Default-568h@2x~iphone.png
+s375185517.353000
+e375185517.355946
+r1
+xCpResource
+xhcpumps/Resources/splash/Default-568h@2x~iphone.png
+xcordova/../build/hcpumps.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy cordova/../build/hcpumps.app/Default-568h@2x~iphone.pngad6d5a6de05cb641^10205b6de05cb641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-568h@2x~iphone.png000000000080d041^652"CpResource "hcpumps/Resources/splash/Default-568h@2x~iphone.png" "cordova/../build/hcpumps.app/Default-568h@2x~iphone.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-568h@2x~iphone.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"5CF92B2F-EC19-4F59-ACEF-46A1D8C86FDD-
+
+CCpResource hcpumps/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/hcpumps.app/Default-Landscape@2x~ipad.png
+s375185517.298537
+e375185517.312690
+r1
+xCpResource
+xhcpumps/Resources/splash/Default-Landscape@2x~ipad.png
+xcordova/../build/hcpumps.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy cordova/../build/hcpumps.app/Default-Landscape@2x~ipad.pngdc7f4c6de05cb641^8b16506de05cb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Landscape@2x~ipad.png000000000080d041^661"CpResource "hcpumps/Resources/splash/Default-Landscape@2x~ipad.png" "cordova/../build/hcpumps.app/Default-Landscape@2x~ipad.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Landscape@2x~ipad.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"2BFCAC86-7735-4296-8454-E9E0272952B1-
+
+CCpResource hcpumps/Resources/splash/Default-Landscape~ipad.png cordova/../build/hcpumps.app/Default-Landscape~ipad.png
+s375185517.313947
+e375185517.321031
+r1
+xCpResource
+xhcpumps/Resources/splash/Default-Landscape~ipad.png
+xcordova/../build/hcpumps.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy cordova/../build/hcpumps.app/Default-Landscape~ipad.png6d72506de05cb641^8e3a526de05cb641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Landscape~ipad.png000000000080d041^652"CpResource "hcpumps/Resources/splash/Default-Landscape~ipad.png" "cordova/../build/hcpumps.app/Default-Landscape~ipad.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Landscape~ipad.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"1EF210CE-5942-4C2E-B59A-C2124D1D4EE2-
+
+CCpResource hcpumps/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png
+s375185517.322678
+e375185517.339410
+r1
+xCpResource
+xhcpumps/Resources/splash/Default-Portrait@2x~ipad.png
+xcordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy cordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png2fc0526de05cb641^6af8566de05cb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png000000000080d041^658"CpResource "hcpumps/Resources/splash/Default-Portrait@2x~ipad.png" "cordova/../build/hcpumps.app/Default-Portrait@2x~ipad.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Portrait@2x~ipad.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"9020BCF2-E831-408C-BE7F-CF0BA85C4DAC-
+
+CCpResource hcpumps/Resources/splash/Default-Portrait~ipad.png cordova/../build/hcpumps.app/Default-Portrait~ipad.png
+s375185517.340638
+e375185517.343699
+r1
+xCpResource
+xhcpumps/Resources/splash/Default-Portrait~ipad.png
+xcordova/../build/hcpumps.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy cordova/../build/hcpumps.app/Default-Portrait~ipad.pngdc46576de05cb641^9b03586de05cb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default-Portrait~ipad.png000000000080d041^649"CpResource "hcpumps/Resources/splash/Default-Portrait~ipad.png" "cordova/../build/hcpumps.app/Default-Portrait~ipad.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default-Portrait~ipad.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"80C6A81E-B3D0-4DD7-ABB2-2059B986E184-
+
+CCpResource hcpumps/Resources/splash/Default@2x~iphone.png cordova/../build/hcpumps.app/Default@2x~iphone.png
+s375185517.344983
+e375185517.347874
+r1
+xCpResource
+xhcpumps/Resources/splash/Default@2x~iphone.png
+xcordova/../build/hcpumps.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy cordova/../build/hcpumps.app/Default@2x~iphone.pngc362586de05cb641^e414596de05cb641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default@2x~iphone.png000000000080d041^637"CpResource "hcpumps/Resources/splash/Default@2x~iphone.png" "cordova/../build/hcpumps.app/Default@2x~iphone.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default@2x~iphone.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"4E695138-3923-462B-B974-145FA6269709-
+
+CCpResource hcpumps/Resources/splash/Default~iphone.png cordova/../build/hcpumps.app/Default~iphone.png
+s375185517.349083
+e375185517.351736
+r1
+xCpResource
+xhcpumps/Resources/splash/Default~iphone.png
+xcordova/../build/hcpumps.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy cordova/../build/hcpumps.app/Default~iphone.pngad6e596de05cb641^170c5a6de05cb641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Default~iphone.png000000000080d041^628"CpResource "hcpumps/Resources/splash/Default~iphone.png" "cordova/../build/hcpumps.app/Default~iphone.png"    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jette/AppDev/NewProject/hcpumps/hcpumps/Resources/splash/Default~iphone.png" /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"9B1C380C-5368-451C-818D-4F3AA1F72EA8-
+
+CCpResource www cordova/../build/hcpumps.app/www
+s375185517.227012
+e375185517.284153
+r1
+xCpResource
+xwww
+xcordova/../build/hcpumps.app/www
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy cordova/../build/hcpumps.app/www363b3a6de05cb641^09c3486de05cb641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/www000000000080d041^527"CpResource www cordova/../build/hcpumps.app/www    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jette/AppDev/NewProject/hcpumps/www /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"AD6B4134-CDE0-4187-B32C-572EE711DEE2-
+
+CGenerateDSYMFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps
+s375185519.242392
+e375185519.375659
+r1
+xGenerateDSYMFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generating /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM5c1f3e6fe05cb641^2c2c606fe05cb641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM000000000080d041^596"GenerateDSYMFile cordova/../build/hcpumps.app.dSYM cordova/../build/hcpumps.app/hcpumps    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps -o /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app.dSYM36"3319CA5A-D11E-4FCC-A22B-6B3D15942051-
+
+CLd /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps normal i386
+s375185518.870555
+e375185519.235631
+r1
+xLd
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Link /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps7bf4de6ee05cb641^61523c6fe05cb641^---0#0#0#--1587"Ld cordova/../build/hcpumps.app/hcpumps normal i386    cd /Users/jette/AppDev/NewProject/hcpumps    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -F/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -filelist /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/hcpumps.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 /Users/jette/AppDev/NewProject/hcpumps/build/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/hcpumps36"9C0E41C7-5F88-4343-B33C-425245351BB3-
+
+CPhaseScriptExecution "Touch www folder" /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Script-304B58A110DAC018002A0835.sh
+s375185517.201483
+e375185517.218847
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Script-304B58A110DAC018002A0835.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Touch www folder'4a40346de05cb641^2906386de05cb641^---0#0#0#--19891"PhaseScriptExecution "Touch www folder" build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Script-304B58A110DAC018002A0835.sh    cd /Users/jette/AppDev/NewProject/hcpumps    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jette    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jette/AppDev/NewProject/hcpumps/build    setenv BUILD_ROOT /Users/jette/AppDev/NewProject/hcpumps/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jette/AppDev/NewProject/hcpumps/cordova/../build    setenv CACHE_ROOT /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_OBJCPP_ARC_ABI YES    setenv CLASS_FILE_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jette/AppDev/NewProject/hcpumps/cordova/../build    setenv CONFIGURATION_TEMP_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH hcpumps.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH hcpumps.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/hcpumps.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME hcpumps.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/jette/AppDev/NewProject/hcpumps/cordova/../build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH hcpumps.app/Executables    setenv EXECUTABLE_FOLDER_PATH hcpumps.app    setenv EXECUTABLE_NAME hcpumps    setenv EXECUTABLE_PATH hcpumps.app/hcpumps    setenv FILE_LIST /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH hcpumps.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jette/AppDev/NewProject/hcpumps/cordova/../build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME hcpumps.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER hcpumps/hcpumps-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include\" \"/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/usr/local/lib/include\" \"/Users/jette/AppDev/NewProject/hcpumps/build/UninstalledProducts/include\" \"/Users/jette/AppDev/NewProject/hcpumps/cordova/../build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE hcpumps/hcpumps-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH hcpumps.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH hcpumps.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/hcpumps.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jette    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/hcpumps.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH hcpumps.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jette/AppDev/NewProject/hcpumps/cordova/../build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal/i386/hcpumps.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH hcpumps.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C60    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Objects-normal    setenv OBJROOT /Users/jette/AppDev/NewProject/hcpumps/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH hcpumps.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/PkgInfo    setenv PKGINFO_PATH hcpumps.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH hcpumps.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH hcpumps.app/PrivateHeaders    setenv PRODUCT_NAME hcpumps    setenv PRODUCT_SETTINGS_PATH /Users/jette/AppDev/NewProject/hcpumps/hcpumps/hcpumps-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT hcpumps    setenv PROJECT_DERIVED_FILE_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/DerivedSources    setenv PROJECT_DIR /Users/jette/AppDev/NewProject/hcpumps    setenv PROJECT_FILE_PATH /Users/jette/AppDev/NewProject/hcpumps/hcpumps.xcodeproj    setenv PROJECT_NAME hcpumps    setenv PROJECT_TEMP_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build    setenv PUBLIC_HEADERS_FOLDER_PATH hcpumps.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jette/AppDev/NewProject/hcpumps/cordova/../build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH hcpumps.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_NAME iphonesimulator6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH hcpumps.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH hcpumps.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/jette/AppDev/NewProject/hcpumps    setenv SRCROOT /Users/jette/AppDev/NewProject/hcpumps    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/jette/AppDev/NewProject/hcpumps/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME hcpumps    setenv TARGET_BUILD_DIR /Users/jette/AppDev/NewProject/hcpumps/cordova/../build    setenv TARGET_NAME hcpumps    setenv TARGET_TEMP_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build    setenv TEMP_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build    setenv TEMP_FILES_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build    setenv TEMP_FILE_DIR /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build    setenv TEMP_ROOT /Users/jette/AppDev/NewProject/hcpumps/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH hcpumps.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER jette    setenv USER_APPS_DIR /Users/jette/Applications    setenv USER_LIBRARY_DIR /Users/jette/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH hcpumps.app/version.plist    setenv VERSION_INFO_BUILDER jette    setenv VERSION_INFO_FILE hcpumps_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:hcpumps  PROJECT:hcpumps-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME hcpumps.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G2008a    setenv XCODE_VERSION_ACTUAL 0452    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/Script-304B58A110DAC018002A0835.sh36"4D962033-E284-4DB1-8979-76012E06638F-
+
+CProcessInfoPlistFile /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Info.plist hcpumps/hcpumps-Info.plist
+s375185517.190094
+e375185517.193514
+r1
+xProcessInfoPlistFile
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Info.plist
+xhcpumps/hcpumps-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process hcpumps/hcpumps-Info.plistf1bc306de05cb641^b98e316de05cb641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/hcpumps-Info.plist0000000000000000^632"ProcessInfoPlistFile cordova/../build/hcpumps.app/Info.plist hcpumps/hcpumps-Info.plist    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility hcpumps/hcpumps-Info.plist -genpkginfo /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app/Info.plist36"2D21EC20-BDAE-4414-A968-66801CCD53B5-
+
+CProcessPCH /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.pth hcpumps/hcpumps-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s375185518.442003
+e375185518.754141
+r1
+xProcessPCH
+x/var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.pth
+xhcpumps/hcpumps-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile hcpumps/hcpumps-Prefix.pch3544716ee05cb641^bb0ec16ee05cb641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/jette/AppDev/NewProject/hcpumps/hcpumps/hcpumps-Prefix.pch0000000000000000^3442"ProcessPCH /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.pth hcpumps/hcpumps-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jette/AppDev/NewProject/hcpumps    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-generated-files.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-own-target-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-all-target-headers.hmap -iquote /Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/hcpumps-project-headers.hmap -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/usr/local/lib/include -I/Users/jette/AppDev/NewProject/hcpumps/build/UninstalledProducts/include -I/Users/jette/AppDev/NewProject/hcpumps/cordova/../build -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources/i386 -I/Users/jette/AppDev/NewProject/hcpumps/build/hcpumps.build/Debug-iphonesimulator/hcpumps.build/DerivedSources -F/Users/jette/AppDev/NewProject/hcpumps/cordova/../build --serialize-diagnostics /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.dia -c /Users/jette/AppDev/NewProject/hcpumps/hcpumps/hcpumps-Prefix.pch -o /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/n5/f03ry2tx535g8wsn17zhym5h0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/hcpumps-Prefix-aafucqjenicwescnkiroctjlcxet/hcpumps-Prefix.pch.d36"AC849C09-D5D8-476A-8207-467DBBCC1F95-
+
+CTouch /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app
+s375185519.383755
+e375185519.390971
+r1
+xTouch
+x/Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Touch /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.appb35c626fe05cb641^a418646fe05cb641^---0#0#0#--381"Touch cordova/../build/hcpumps.app    cd /Users/jette/AppDev/NewProject/hcpumps    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/jette/AppDev/NewProject/hcpumps/cordova/../build/hcpumps.app36"C142C489-CEFC-436C-8C76-77E4D27A5409-
+

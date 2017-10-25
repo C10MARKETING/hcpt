@@ -1,0 +1,168 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#1d2627;
+    background-image:linear-gradient(top, #283031 0%, #1d2627 51%);
+    background-image:-webkit-linear-gradient(top, #283031 0%, #1d2627 51%);
+    background-image:-ms-linear-gradient(top, #283031 0%, #1d2627 51%);
+    background-image:-webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #283031),
+        color-stop(0.51, #1d2627)
+    );
+    background-attachment:fixed;
+    font-family:Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    margin-top:0px;
+}
+
+.forsiden
+{background-color:#000;}
+
+/* Portrait layout (default) */
+.app {
+    background:url(../img/logo-ny.png) no-repeat center top; /* 170px x 200px */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color:#000000;
+    height:95.1%;
+    position:absolute;             /* position in the center of the screen */
+}
+
+
+.top{
+padding:0px 4px 4px 4px;
+background-color:#09a048;
+}
+
+.icon-holder{
+margin:320px 0px 0px 0px;
+width:100%;
+}
+.icon-holder a{
+    float:left;
+}
+
+.btn{
+float:left;
+padding:6px;
+}
+
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+p {
+    font-size:14px;
+    font-weight:normal;
+    color:#FFF;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+}
+
+.footer
+{
+background-color:#000;
+    background-image:linear-gradient(top, #2a2a2a 0%, #000 51%);
+    background-image:-webkit-linear-gradient(top, #2a2a2a 0%, #000 51%);
+    background-image:-ms-linear-gradient(top, #2a2a2a 0%, #000 51%);
+    background-image:-webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #2a2a2a),
+        color-stop(0.51, #000)
+    );
+padding-left:12px;
+    }
+
+
+.event {
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin:0px 30px;
+    padding:2px 0px;
+}
+
+.event.listening {
+    background-color:#333333;
+    display:block;
+}
+
+.event.received {
+    background-color:#4B946A;
+    display:none;
+}
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+
+.priser th{
+    padding:10px;
+    text-align:left;
+    background-color:#09a048;
+}
+
+.priser td{
+    padding:10px;
+    background-color:#b2e1cc;
+    color:#000;
+    text-shadow:0 0 0;
+}
+ul.kontakt li{
+line-height:30px;
+}
